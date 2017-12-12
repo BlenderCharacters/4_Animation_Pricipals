@@ -11,3 +11,37 @@ Before we animate a complex rig, let's understand the core principles of animati
 Here are the lectures of the course for this section...
 
 # 1 Section 4 introduction
++ Michael Introduces Section 4 of the course
+
+# 2 What Is Animation?
++ The illusion of motion
++ In Blender it is not just about the object/character
++ Animating of the camera can drastically change the staging
++ Bringing our models into life
++
+
+# 3 Animating Can Be Hard
++ Make many little animations
++ Keep Your old work to reflect on
++ Keep your old work to improve on
++ As your skills de
+
+# Know your Subject
+# Recommended Reading
++ The illusion Of Life
++ Whist many concepts are applied to drawing, they equally apply to 3D animation
+# Frame Rate
++ Decided at the beginning of a project.
++ Suggest sticking to one frame rate throughout a project
++ Save the startup file with your chosen
++ Changing it mid-way can cause many headaches
+# Pose To Pose - Keys
++ These are end main parts of the animation
++ Typically the start and end
++ As the name suggests these are the KEY points in the animation
+# Pose To Pose - Extremes
++ The furthest an object or character will travel
++
+# Pose to Pose - Breakdown Poses
++ Ensures the correct transition between Extremes
++ In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
