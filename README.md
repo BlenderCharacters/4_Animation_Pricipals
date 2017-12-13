@@ -35,11 +35,11 @@ Here are the lectures of the course for this section...
 + It can work well with many simple objects
 + Can help the process with previewing an idea to tweak later
 
-### Squash And Stretch
+### 5 Squash And Stretch
 + Can Give a sense of weight
 + Gives the view an idea of the material
 + Can be used mildly
-+ Taken to extremes can be comical
++ Taken to extremes it can be comical
 + Volume should be maintain to remain convincing
 
 ### Animating Can Be Hard
