@@ -29,7 +29,13 @@ Here are the lectures of the course for this section...
 + Save the startup file with your chosen
 + Changing it mid-way can cause many headaches
 
-### 4 Squash And Stretch
+### 4 Why Not Use Physics?
++ Physics is appropriate sometimes, falling and collapsing
++ You lose control as you give it to the physics engine
++ It can work well with many simple objects
++ Can help the process with previewing an idea to tweak later
+
+### Squash And Stretch
 + Can Give a sense of weight
 + Gives the view an idea of the material
 + Can be used mildly
