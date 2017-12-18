@@ -42,6 +42,17 @@ Here are the lectures of the course for this section...
 + Taken to extremes it can be comical
 + Volume should be maintain to remain convincing
 
+### 6 Bone Based Squash and Stretch
++ Using an armature to deform our mesh
+
+### Re-targeting Animations
++ Super quick workflow when done
++ Naming has to be consistent
++ Naming is critical to this work flow working
+
+### Refining Squash and Stretch
+
+
 ### Animating Can Be Hard
 + Make many little animations
 + Keep your old work to reflect on
@@ -56,13 +67,15 @@ Here are the lectures of the course for this section...
 + Be Silly and get creative.
 
 
-#### Pose To Pose - Keys
+### Pose To Pose - Keys
 + These are end main parts of the animation
 + Typically the start and end
 + As the name suggests these are the KEY points in the animation
-#### Pose To Pose - Extremes
+### Pose To Pose - Extremes
 + The furthest an object or character will travel
 +
-#### Pose to Pose - Breakdown Poses
+### Pose to Pose - Breakdown Poses
 + Ensures the correct transition between Extremes
 + In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
+
+### Straight Ahead
