@@ -50,7 +50,9 @@ Here are the lectures of the course for this section...
 + Naming has to be consistent
 + Naming is critical to this work flow working
 
-### Refining Squash and Stretch
+### 8 Refining Squash and Stretch
++ Control bones may be necessary to fine tune movement
++ Caution adding unnecessary complexity
 
 
 ### Animating Can Be Hard
