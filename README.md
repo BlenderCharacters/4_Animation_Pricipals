@@ -45,7 +45,7 @@ Here are the lectures of the course for this section...
 ### 6 Bone Based Squash and Stretch
 + Using an armature to deform our mesh
 
-### Re-targeting Animations
+### 7 Re-targeting Animations
 + Super quick workflow when done
 + Naming has to be consistent
 + Naming is critical to this work flow working
