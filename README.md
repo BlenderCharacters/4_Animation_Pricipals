@@ -54,6 +54,17 @@ Here are the lectures of the course for this section...
 + Control bones may be necessary to fine tune movement
 + Caution adding unnecessary complexity
 
+### Expanding An Animation
++ Clean up current keyframes
++ Expand on existing animation data
++ Moving keyframes in bulk
+
+### Anticipation
+
++ Guides a clue of what is about to happen
++ Makes an animation look more realistic
++ Prepares viewers for the next action
++ Avoid competing actions in complex models and scenes
 
 ### Animating Can Be Hard
 + Make many little animations
@@ -69,6 +80,9 @@ Here are the lectures of the course for this section...
 + Be Silly and get creative.
 
 
+Timing
+Ease In and Ease Out
+
 ### Pose To Pose - Keys
 + These are end main parts of the animation
 + Typically the start and end
@@ -81,3 +95,14 @@ Here are the lectures of the course for this section...
 + In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
 
 ### Straight Ahead
++ Useful for more organic or random movement
++ Great for movement that lacks a known end position
++
+
+Staging
+Follow Through
+Overlapping
+Secondary Action
+Exaggeration
+"Solid Drawing"
+Appeal
