@@ -54,10 +54,16 @@ Here are the lectures of the course for this section...
 + Control bones may be necessary to fine tune movement
 + Caution adding unnecessary complexity
 
-### Expanding An Animation
+### 9 Expanding An Animation
 + Clean up current keyframes
-+ Expand on existing animation data
 + Moving keyframes in bulk
++ Expand on existing animation data
+
+### 10 Animating Can Be Hard
++ Make many little animations
++ Keep your old work to reflect on
++ Keep your old work to improve on
++ As your skills develop it will get easier
 
 ### Anticipation
 
@@ -65,12 +71,6 @@ Here are the lectures of the course for this section...
 + Makes an animation look more realistic
 + Prepares viewers for the next action
 + Avoid competing actions in complex models and scenes
-
-### Animating Can Be Hard
-+ Make many little animations
-+ Keep your old work to reflect on
-+ Keep your old work to improve on
-+ As your skills develop it will get easier
 
 #### Know Your Subject
 + Yes... reference material again!
