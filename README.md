@@ -65,6 +65,19 @@ Here are the lectures of the course for this section...
 + Keep your old work to improve on
 + As your skills develop it will get easier
 
+### 11 Using The Grease Pencil
++ Quick Overview of the grease pencil
++ Grease pencil colours and layers
++ You can use the grease pencil in most editors
++ How to use the grease pencil for making notes
++ Editing your strokes
+
+
+### Animating The Grease Pencil
++ Drawing on an object
++ Mapping out animation ideas
+
+
 ### Anticipation
 
 + Guides a clue of what is about to happen
@@ -80,8 +93,7 @@ Here are the lectures of the course for this section...
 + Be Silly and get creative.
 
 
-Timing
-Ease In and Ease Out
+
 
 ### Pose To Pose - Keys
 + These are end main parts of the animation
@@ -98,6 +110,8 @@ Ease In and Ease Out
 + Useful for more organic or random movement
 + Great for movement that lacks a known end position
 +
+Timing
+Ease In and Ease Out
 
 Staging
 Follow Through
