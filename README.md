@@ -73,7 +73,7 @@ Here are the lectures of the course for this section...
 + Editing your strokes
 
 
-### Animating The Grease Pencil
+### 12 Animating The Grease Pencil
 + Drawing on an object
 + Mapping out animation ideas
 
