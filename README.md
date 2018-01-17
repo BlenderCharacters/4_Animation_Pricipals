@@ -76,6 +76,13 @@ Here are the lectures of the course for this section...
 + Drawing on an object
 + Mapping out animation ideas
 
+### 12a Anticipation
+
++ Gives the viewer a clue of what is about to happen
++ Often makes an animation look more realistic
++ Prepares viewers for the next action
++ Avoid competing actions in complex models and scenes
+
 ### 13 Pose To Pose - Keys
 + These are the start and end of the a particular action
 + Solidify what we have already been doing
@@ -93,12 +100,6 @@ Here are the lectures of the course for this section...
 + Useful for more organic or random movement
 + Great for movement that lacks a known end position
 
-### Anticipation
-
-+ Guides a clue of what is about to happen
-+ Makes an animation look more realistic
-+ Prepares viewers for the next action
-+ Avoid competing actions in complex models and scenes
 
 Timing
 Ease In and Ease Out
