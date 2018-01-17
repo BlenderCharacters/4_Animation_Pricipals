@@ -89,7 +89,7 @@ Here are the lectures of the course for this section...
 + Can be more that two, if the animation has multiple actions / parts
 + As the name suggests these are the KEY points in the animation
 
-### Pose To Pose - Extremes
+### 14 Pose To Pose - Extremes
 + The furthest an object or character will travel
 
 ### Pose to Pose - Breakdown Poses
