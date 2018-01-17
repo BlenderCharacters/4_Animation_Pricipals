@@ -72,11 +72,26 @@ Here are the lectures of the course for this section...
 + How to use the grease pencil for making notes
 + Editing your strokes
 
-
 ### 12 Animating The Grease Pencil
 + Drawing on an object
 + Mapping out animation ideas
 
+### 13 Pose To Pose - Keys
++ These are the start and end of the a particular action
++ Solidify what we have already been doing
++ Can be more that two, if the animation has multiple actions / parts
++ As the name suggests these are the KEY points in the animation
+
+### Pose To Pose - Extremes
++ The furthest an object or character will travel
+
+### Pose to Pose - Breakdown Poses
++ Ensures the correct transition between Extremes
++ In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
+
+### Straight Ahead
++ Useful for more organic or random movement
++ Great for movement that lacks a known end position
 
 ### Anticipation
 
@@ -85,34 +100,8 @@ Here are the lectures of the course for this section...
 + Prepares viewers for the next action
 + Avoid competing actions in complex models and scenes
 
-#### Know Your Subject
-+ Yes... reference material again!
-+ Study your subjects
-+ Get a nearby mirror
-+ Gather videos or make your own
-+ Be Silly and get creative.
-
-
-
-
-### Pose To Pose - Keys
-+ These are end main parts of the animation
-+ Typically the start and end
-+ As the name suggests these are the KEY points in the animation
-### Pose To Pose - Extremes
-+ The furthest an object or character will travel
-+
-### Pose to Pose - Breakdown Poses
-+ Ensures the correct transition between Extremes
-+ In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
-
-### Straight Ahead
-+ Useful for more organic or random movement
-+ Great for movement that lacks a known end position
-+
 Timing
 Ease In and Ease Out
-
 Staging
 Follow Through
 Overlapping
@@ -120,3 +109,11 @@ Secondary Action
 Exaggeration
 "Solid Drawing"
 Appeal
+
+Shift To Next Section
+### Know Your Subject
++ Yes... reference material again!
++ Study your subjects
++ Get a nearby mirror
++ Gather videos or make your own
++ Be Silly and get creative.
