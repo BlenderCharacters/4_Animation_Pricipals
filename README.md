@@ -92,9 +92,9 @@ Here are the lectures of the course for this section...
 ### 14 Pose To Pose - Extremes
 + The furthest an object or character will travel
 
-### Pose to Pose - Breakdown Poses
+### 15 Pose to Pose - Breakdown Poses
 + Ensures the correct transition between Extremes
-+ In-betweens would be next, however since blender is good at interpolation these are only require in edge cases
++ In-betweens would be next, however since Blender is good at interpolation these are only required in edge cases
 
 ### Straight Ahead
 + Useful for more organic or random movement
