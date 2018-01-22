@@ -96,10 +96,11 @@ Here are the lectures of the course for this section...
 + Ensures the correct transition between Extremes
 + In-betweens would be next, however since Blender is good at interpolation these are only required in edge cases
 
-### Straight Ahead
+### 16 Straight Ahead
 + Useful for more organic or random movement
 + Great for movement that lacks a known end position
-
++ Creates a move dynamic movement
++ Both pose to pose and straight a head are often combined
 
 Timing
 Ease In and Ease Out
