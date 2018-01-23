@@ -102,7 +102,10 @@ Here are the lectures of the course for this section...
 + Creates a move dynamic movement
 + Both pose to pose and straight a head are often combined
 
-Timing
+### 17 Timing
++ Frame rate dependant
++ Can change the entire feeling of an animation
+
 Ease In and Ease Out
 Staging
 Follow Through
