@@ -106,8 +106,14 @@ Here are the lectures of the course for this section...
 + Frame rate dependant
 + Can change the entire feeling of an animation
 
-Ease In and Ease Out
-Staging
+### 18 Staging
++ Direct the viewer attentions to important points
++ Complement actions and feel but avoid competition for viewer attention
++ Can depict an action, personality or emotion
++ Can be achieved with where they are in the scene, camera position/lens setting/DOF, lighting/shadows
++ Focus on what is relevant and adds to the scene, remove clutter
+
+###Ease In and Ease Out
 Follow Through
 Overlapping
 Secondary Action
