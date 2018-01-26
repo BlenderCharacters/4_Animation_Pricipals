@@ -113,7 +113,14 @@ Here are the lectures of the course for this section...
 + Can be achieved with where they are in the scene, camera position/lens setting/DOF, lighting/shadows
 + Focus on what is relevant and adds to the scene, remove clutter
 
-###Ease In and Ease Out
+### 19 Ease In and Ease Out
++ All natural movements will pick up speed, and slow down at the end
++ This applies to all character movements
++ The only time you tend to have abrupt transitions is where there is some external influence
++ Linear transitions will look robotic
+
+
+
 Follow Through
 Overlapping
 Secondary Action
