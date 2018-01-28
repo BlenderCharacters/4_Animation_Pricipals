@@ -119,10 +119,13 @@ Here are the lectures of the course for this section...
 + The only time you tend to have abrupt transitions is where there is some external influence
 + Linear transitions will look robotic
 
+### 20 Follow Through
++ A natural extension to easing in and out
++ Objects naturally overshoot their desired location
++ Movement is proportional to the speed an object is travelling and its "weight"
++ Often applied to models with more that one part
 
-
-Follow Through
-Overlapping
+### Overlapping Action
 Secondary Action
 Exaggeration
 "Solid Drawing"
