@@ -122,14 +122,21 @@ Here are the lectures of the course for this section...
 ### 20 Follow Through
 + A natural extension to easing in and out
 + Objects naturally overshoot their desired location
-+ Movement is proportional to the speed an object is travelling and its "weight"
++ Movement is proportional to the speed an object is travelling and it's "weight"
 + Often applied to models with more that one part
++ Means that loosely tied parts of a body should continue moving after the character has stopped
 
-### Overlapping Action
-Secondary Action
-Exaggeration
-"Solid Drawing"
-Appeal
+### 21 Overlapping Action
++ Deeply linked to follow through
++ Describes the Offset of timing between a main body
++ Helps break up an animation
++ Adds interest to an animation
++ When different parts of a character move at different rates
+
+### Secondary Action
+### Exaggeration
+### "Solid Drawing"
+### Appeal
 
 Shift To Next Section
 ### Know Your Subject
