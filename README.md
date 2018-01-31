@@ -141,7 +141,6 @@ Here are the lectures of the course for this section...
 + Should always emphasize, rather than take attention away from the main action.
 + Otherwise leave them out
 
-
 ### 23 Exaggeration
 + Animated motions that strive for an imitation of reality can look dull and lack character
 + Can but subtle and take reality to an extreme
@@ -149,7 +148,7 @@ Here are the lectures of the course for this section...
 + Show restraint, push it and then dial it back a little
 + Otherwise the viewer can become overwhelmed
 
-### "Solid Drawing"
+### 24 "Solid Drawing"
 + Don't need to worry about the 3 dimensionality
 + Give you animations real presence by giving them weight and volume
 
