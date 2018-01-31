@@ -133,7 +133,7 @@ Here are the lectures of the course for this section...
 + Adds interest to an animation
 + When different parts of a character move at different rates
 
-### Secondary Action
+### 22 Secondary Action
 + Don't be confused by names!
 + Secondary action is what is happening, follow through and Overlapping action is how.
 + Example: Main action walking, secondary action might be hands swinging, body swaying.
@@ -142,7 +142,7 @@ Here are the lectures of the course for this section...
 + Otherwise leave them out
 
 
-### Exaggeration
+### 23 Exaggeration
 + Animated motions that strive for an imitation of reality can look dull and lack character
 + Can but subtle and take reality to an extreme
 + Can be over the top for a more comical effect
