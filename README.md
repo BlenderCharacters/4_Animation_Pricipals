@@ -134,9 +134,37 @@ Here are the lectures of the course for this section...
 + When different parts of a character move at different rates
 
 ### Secondary Action
++ Don't be confused by names!
++ Secondary action is what is happening, follow through and Overlapping action is how.
++ Example: Main action walking, secondary action might be hands swinging, body swaying.
++ Or even action before or after a key animation.
++ Should always emphasize, rather than take attention away from the main action.
++ Otherwise leave them out
+
+
 ### Exaggeration
++ Animated motions that strive for an imitation of reality can look dull and lack character
++ Can but subtle and take reality to an extreme
++ Can be over the top for a more comical effect
++ Show restraint, push it and then dial it back a little
++ Otherwise the viewer can become overwhelmed
+
 ### "Solid Drawing"
++ Don't need to worry about the 3 dimensionality
++ Give you animations real presence by giving them weight and volume
+
 ### Appeal
++ Appeal can help the viewer relate to the character
++ Makes a character feel real and interesting
++ Symmetry can make a character more appealing
++ Baby feature as can add appeal
++ Character should be easy to read otherwise the viewer will not be able to relate.
+
+### Section Wrap Up
++ Well done
++ We've successfully applied the 12 principals of animation to basic cubes and spheres
++ Practice these skills it will allow you to solidify your understanding and Blender skills
++ Are you ready for the challenge of animation something a little more complex?
 
 Shift To Next Section
 ### Know Your Subject
