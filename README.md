@@ -152,14 +152,14 @@ Here are the lectures of the course for this section...
 + Don't need to worry about the 3 dimensionality
 + Give you animations real presence by giving them weight and volume
 
-### Appeal
+### 25 Appeal
 + Appeal can help the viewer relate to the character
 + Makes a character feel real and interesting
 + Symmetry can make a character more appealing
 + Baby feature as can add appeal
 + Character should be easy to read otherwise the viewer will not be able to relate.
 
-### Section Wrap Up
+### 99 Section Wrap Up
 + Well done
 + We've successfully applied the 12 principals of animation to basic cubes and spheres
 + Practice these skills it will allow you to solidify your understanding and Blender skills
