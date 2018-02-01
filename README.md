@@ -159,7 +159,7 @@ Here are the lectures of the course for this section...
 + Baby feature as can add appeal
 + Character should be easy to read otherwise the viewer will not be able to relate.
 
-### 99 Section Wrap Up
+### 99 Section 4 Wrap Up
 + Well done
 + We've successfully applied the 12 principals of animation to basic cubes and spheres
 + Practice these skills it will allow you to solidify your understanding and Blender skills
