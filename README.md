@@ -101,6 +101,7 @@ Here are the lectures of the course for this section...
 + Great for movement that lacks a known end position
 + Creates a move dynamic movement
 + Both pose to pose and straight a head are often combined
++ (Updated 6/6/2018)
 
 ### 17 Timing
 + Frame rate dependant
@@ -166,11 +167,3 @@ Here are the lectures of the course for this section...
 + We've successfully applied the 12 principals of animation to basic cubes and spheres
 + Practice these skills it will allow you to solidify your understanding and Blender skills
 + Are you ready for the challenge of animation something a little more complex?
-
-Shift To Next Section
-### Know Your Subject
-+ Yes... reference material again!
-+ Study your subjects
-+ Get a nearby mirror
-+ Gather videos or make your own
-+ Be Silly and get creative.
