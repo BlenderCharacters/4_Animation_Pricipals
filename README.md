@@ -118,6 +118,7 @@ Here are the lectures of the course for this section...
 + This applies to all character movements
 + The only time you tend to have abrupt transitions is where there is some external influence
 + Linear transitions will look robotic
++ Updated (6/6/2018)
 
 ### 20 Follow Through
 + A natural extension to easing in and out
