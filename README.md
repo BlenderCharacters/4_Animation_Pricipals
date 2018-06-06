@@ -140,6 +140,7 @@ Here are the lectures of the course for this section...
 + Or even action before or after a key animation.
 + Should always emphasize, rather than take attention away from the main action.
 + Otherwise leave them out
++ Updated (06/06/2018)
 
 ### 23 Exaggeration
 + Animated motions that strive for an imitation of reality can look dull and lack character
