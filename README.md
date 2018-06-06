@@ -49,6 +49,7 @@ Here are the lectures of the course for this section...
 + Super quick workflow when done
 + Naming has to be consistent
 + Naming is critical to this work flow working
++ (Updated 6/6/2018)
 
 ### 8 Refining Squash and Stretch
 + Control bones may be necessary to fine tune movement
